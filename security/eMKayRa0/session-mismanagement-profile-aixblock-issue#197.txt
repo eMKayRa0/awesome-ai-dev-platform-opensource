@@ -1,0 +1,1 @@
+This placeholder file corresponds to Issue #197, which reports a session mismanagement vulnerability in PATCH /api/users/{id} on app.aixblock.io, allowing profile updates even after logout due to broken authentication and missing session invalidation.
